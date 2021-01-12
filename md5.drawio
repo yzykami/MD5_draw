@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T07:45:14.754Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3861.400 QQBrowser/10.7.4313.400" etag="vZbNXIBWwC7RAb9ubWyj" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-12T08:23:52.337Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3861.400 QQBrowser/10.7.4313.400" etag="0gYEE4B1zSjs1kLqeAsl" version="14.1.9" type="github" pages="3">
   <diagram id="vZh9OYVmvURLcyZ7zChU" name="MD5执行端">
     <mxGraphModel dx="1381" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,22 @@
           <mxGeometry x="110" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_oThMeBDkMpjmNqSBP6x-13" value="根据ID查询任务状态" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_oThMeBDkMpjmNqSBP6x-1" source="_oThMeBDkMpjmNqSBP6x-3" target="_oThMeBDkMpjmNqSBP6x-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.4545" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="220" />
+              <mxPoint x="350" y="220" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9sdfu4T4Dndy-RtgNsHt-0" value="查询集群状态" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_oThMeBDkMpjmNqSBP6x-1" source="_oThMeBDkMpjmNqSBP6x-3" target="_oThMeBDkMpjmNqSBP6x-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423" y="418" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="300" />
+              <mxPoint x="420" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_oThMeBDkMpjmNqSBP6x-3" value="查询任务&lt;br&gt;map+thread" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_oThMeBDkMpjmNqSBP6x-1">
           <mxGeometry x="280" y="40" width="210" height="110" as="geometry" />
