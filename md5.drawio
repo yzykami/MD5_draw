@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T03:32:31.715Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3861.400 QQBrowser/10.7.4313.400" etag="P107vt0HoDik-sLgvxt4" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-13T03:45:00.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="i0d_iC15h2bbyVI41t74" version="14.1.9" type="github" pages="3">
   <diagram id="vZh9OYVmvURLcyZ7zChU" name="MD5执行端">
-    <mxGraphModel dx="1381" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,14 +36,14 @@
         <mxCell id="xTGyEX7kMLGWxDFuv8Kp-1" value="是否空闲" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="71" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3F_a-cN-I69hapElGCvo-4" value="注册" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3F_a-cN-I69hapElGCvo-1" target="3F_a-cN-I69hapElGCvo-3">
+        <mxCell id="3F_a-cN-I69hapElGCvo-4" value="注册" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3F_a-cN-I69hapElGCvo-1" target="3F_a-cN-I69hapElGCvo-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3F_a-cN-I69hapElGCvo-1" value="启动时根据配置自动注册到管理端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3F_a-cN-I69hapElGCvo-1" value="启动时根据配置自动注册到管理端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3F_a-cN-I69hapElGCvo-3" value="MD5管理端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="356" y="555" width="120" height="60" as="geometry" />
+        <mxCell id="3F_a-cN-I69hapElGCvo-3" value="MD5管理端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="530" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
